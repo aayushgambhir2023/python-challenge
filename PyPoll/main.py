@@ -1,6 +1,4 @@
-import os
 import csv
-
 ballot_id = []
 county = []
 candidates = []
